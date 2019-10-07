@@ -9,15 +9,15 @@ SCREEN_HEIGHT = 600
 SCREEN_TITLE = "Tiled Map Editor Test"
 
 # Constants used to scale our sprites from their original size
-CHARACTER_SCALING = 0.5
+CHARACTER_SCALING = 0.25
 TILE_SCALING = 0.5
-SPRITE_PIXEL_SIZE = 64
+SPRITE_PIXEL_SIZE = 32
 GRID_PIXEL_SIZE = (SPRITE_PIXEL_SIZE * TILE_SCALING)
 
 # Movement speed of player, in pixels per frame
-PLAYER_MOVEMENT_SPEED = 2
+PLAYER_MOVEMENT_SPEED = 15
 GRAVITY = 1
-PLAYER_JUMP_SPEED = 15
+PLAYER_JUMP_SPEED = 20
 
 # How many pixels to keep as a minimum margin between the character
 # and the edge of the screen.

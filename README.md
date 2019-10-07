@@ -1,4 +1,9 @@
 # E06b-Tiles
+In this repository, I am going to attemp to add tiles and land for an alien to move on. I am also going to add coins to the map for the alien to be able to get as well.In my game, the coins are represented with some green gems. So, I guess its really green gems im adding not coins. Modifying the character speed can allow you to make the character slower or faster, so I opted for speed. Updating the character jump speed lets the character jump farther and faster.
+
+
+
+
 Playing with the Tiled Map Editor
 
 This is an opportunity for you to experiment with using the Tiled Map Editor to build a 2D platformer.
